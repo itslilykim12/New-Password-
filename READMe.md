@@ -1,4 +1,19 @@
 # New-Password 
 Creating a Password Generator 
 
+# Pupose 
+To generate a password that has the criteria of 
+    - at least 8 characters and no more of 128 characters 
+    - has character types of lowercase, uppercase, numeric, and/or special      characters
 
+# Built with 
+ 1. HTML 
+ 2. Style CSS 
+ 3. Javascript 
+
+ # Resources 
+ 1. Stack OVerflow 
+    https://stackoverflow.com/questions/1497481/javascript-password-generator
+ 2. W3 School Website
+    https://www.w3schools.com/Jsref/dom_obj_password.asp
+    https://www.w3schools.com/js/js_htmldom_html.asp

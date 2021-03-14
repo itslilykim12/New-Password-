@@ -17,3 +17,4 @@ To generate a password that has the criteria of at least 8 characters, no more o
     https://www.w3schools.com/js/js_htmldom_html.asp
 
 # Sample Picture of the Website 
+![Password-Generator](https://user-images.githubusercontent.com/78708872/111074818-4cf7ef80-84bb-11eb-8e10-3727a44e2c19.PNG)

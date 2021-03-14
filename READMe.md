@@ -20,7 +20,7 @@ To generate a password that has the criteria of at least 8 characters, no more o
 
 
 # Deployed Website 
-https://github.com/itslilykim12/New-Password-
+https://itslilykim12.github.io/New-Password-/
 
 # Contributions 
 Made By Lily Kim 

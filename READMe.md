@@ -15,3 +15,5 @@ To generate a password that has the criteria of at least 8 characters, no more o
  2. W3 School Website
     https://www.w3schools.com/Jsref/dom_obj_password.asp and 
     https://www.w3schools.com/js/js_htmldom_html.asp
+
+# Sample Picture of the Website 
